@@ -2,9 +2,7 @@ import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
 
 import java.util.*;
 
-/**
- * https://school.thoughtworks.cn/learn/program-center/subjectiveQuiz/index.html#/student/program/195/task/3110/assignment/4213/quiz/1299
- */
+ 
 public class Poker{
     public static Map<String, String> map = new HashMap<>();
     public static int[] pair = {0, 0,0};
